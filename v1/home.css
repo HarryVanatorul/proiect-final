@@ -1,0 +1,18 @@
+.ContainerNavigatie
+{
+  text-align: center;
+  background: bisque;                           
+}
+
+.ContainerNavigatie .meniu
+{
+ display: flex;                             
+}
+     display: flex;
+     position: relative;
+     
+     {
+         ContainerNavigatie .Meniu li                     
+     }
+         flex: 1;
+                     
